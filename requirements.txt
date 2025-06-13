@@ -1,0 +1,5 @@
+fastecdsa
+starkbank-ecdsa
+requests
+mnemonic==0.20
+hdwallet==2.2.1
